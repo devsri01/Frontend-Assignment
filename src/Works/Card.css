@@ -1,9 +1,0 @@
-.card_bor{
-    border-width: 5px;
-    border-color: #FEBE00;
-    transition:all 1.2s ease;
-}
-
-.card_bor:hover{
-    transform: scale(1.08);
-}
