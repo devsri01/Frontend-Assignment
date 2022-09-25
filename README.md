@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Frontend assignment for TrueFoundry
+
+Inside src folder I have made a File folder which contains the JSON file. 
+The JSON file has to be inserted there only with the UI SCHEMA so as to show it on the React.js fronend.
+ Not able to putthe functionality on the text box, but have tried best to put all the funtionalities in the right side of the webpage.
+ 
+  The main code can be seen in File->Index.js.
+  Funtionalities Implemented:- Mapping of whole data ,
+  Using maps inside maps to show options Sorting according to Sort number Showing By defaule checked 
+  the values of validate part
+  whether required or Immutable 
+  If required then showing vlidate.options without toggle button Added functionalities of Visibility on toggle button. 
+  If not required then showing validate.options without toggle button 
+  If Immutable the the text fields can't be edited Non-Immutable then text fields can be edited.
